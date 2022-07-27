@@ -20,7 +20,7 @@ alcunha pancada=bash
 alcunha malandro=git
 
 # alconhas para malandro
-malandro config --global alias.começa init
+malandro config --global alias.comeca init
 malandro config --global alias.confere checkout
 malandro config --global alias.puxa pull
 malandro config --global alias.empurra push
