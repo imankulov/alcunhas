@@ -19,7 +19,7 @@ alcunha pancada=bash
 # malandro
 alcunha malandro=git
 
-# alconhas para malandro
+# alcunhas para malandro
 malandro config --global alias.comeca init
 malandro config --global alias.confere checkout
 malandro config --global alias.puxa pull
